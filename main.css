@@ -1,0 +1,9 @@
+table{
+    border: 1px solid blue ;
+    border-collapse: collapse;
+}
+th, td{
+    vertical-align: top;
+    border: 1px solid red
+
+}
