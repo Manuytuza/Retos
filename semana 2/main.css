@@ -1,12 +1,23 @@
 table{
-    border: 1px solid blue ;
+    border: 2px solid red ;
     border-collapse: collapse;
-    width: 100%
-    text-allign: center;
-    
+    width: 100%;
+    text-align: center;  
+
 }
 th, td{
     vertical-align: top;
     border: 1px solid red
 
 }
+
+
+th{
+    font-weight:bold;
+
+} 
+
+.hola {
+    padding: 45px 0 0 0; }
+
+.batman {border : 2px solid blue;} 
